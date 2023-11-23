@@ -1,4 +1,10 @@
-# EST_AI_PM
-[EST] AI 서비스 기획 1st
+# [ESTsoft] AI 서비스 기획자 부트캠프
+----------
+## WASSUP 1기
+----------
 
-# pull test
+### Goal: AI 기술에 대한 배경지식을 함양한 서비스 기획자로 성장
+
+### "How to?"
+
+![온보딩 메일 이미지](https://github.com/simon1214/EST_AI_PM/assets/59524126/a57abb1e-9071-4b61-a955-6d6e6c0a9f97)
